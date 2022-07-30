@@ -1,6 +1,6 @@
 # Puzzle-Slider
 
-Updated Final Project for CS 5001: Intensive Foundations of Computer Science at Northeastern University \n
+Updated Final Project for CS 5001: Intensive Foundations of Computer Science at Northeastern University.
 
 For this project, I wanted to utilize the practices I learned in my Object Oriented Design course to update a project I did in my Foundations of CS course which I took in the Fall.
 In the original project, I utilized procedural methods in order to carry out this task.
